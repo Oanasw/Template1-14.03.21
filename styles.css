@@ -1,0 +1,91 @@
+body{
+  font-family: "Prompt", sans-serif;
+  text-align: center;}
+
+  h1, h2 {
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: bold;
+  }
+
+h3 {
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.colored-section{
+  background-image: url(bg-image.jpg);
+  background-size: cover;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 1.5rem;
+  text-align: right;
+}
+
+.navbar-brand {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 5px;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+/* About section */
+
+.about {
+  padding: 10% 10%;
+}
+
+/* Servicii si programe online */
+
+.servicii {
+  background-color: #fff;
+  padding: 10% 15%;
+}
+.servicii-column {
+  padding: 3% 2%;
+}
+
+/* Testimonials Section */
+
+.testimoniale {
+    background-image: url(testimonials.png);
+    background-size: cover;
+}
+
+.carousel-item {
+    padding: 7% 13%;
+}
+
+.testimonial-text {
+  font-size: 2rem;
+
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+/* Footer */
+
+#footer {
+  padding: 2% 10% 1%;
+}
+
+.footer-btn {
+  margin: 0.5%;
+}
